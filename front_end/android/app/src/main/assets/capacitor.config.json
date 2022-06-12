@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "great_alumni_app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

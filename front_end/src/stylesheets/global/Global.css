@@ -1,0 +1,8 @@
+/* Custom CSS for register form */
+
+/* for register form input */
+
+.register-form-input {
+
+    --placeholder-opacity: 1;
+}

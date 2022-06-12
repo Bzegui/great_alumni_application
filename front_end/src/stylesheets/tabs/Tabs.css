@@ -1,0 +1,7 @@
+/* Custom CSS for tab scroll : */
+
+.tab-scroll {
+
+    white-space: nowrap;
+    overflow-y: auto;
+}

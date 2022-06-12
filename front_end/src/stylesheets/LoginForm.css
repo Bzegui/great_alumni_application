@@ -1,0 +1,25 @@
+/* Custom CSS for login form */
+
+/* for login form card */
+
+.login-form-card {
+
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+/* for ID label */
+
+.login-form-id-label {
+
+    position: relative;
+    left: 22%;
+}
+
+/* for password label */
+
+.login-form-password-label {
+
+    position: relative;
+    left: 15%;
+}
